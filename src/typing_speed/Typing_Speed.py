@@ -34,5 +34,3 @@ if choice == 1:
 
     password = input("Enter the password:")
     print("Sucessfully Logged in!!")
-else:
-    pass
