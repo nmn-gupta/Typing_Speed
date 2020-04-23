@@ -437,7 +437,7 @@
       <workItem from="1586881580601" duration="794000" />
       <workItem from="1587115552612" duration="1212000" />
       <workItem from="1587401559710" duration="1672000" />
-      <workItem from="1587653319182" duration="1778000" />
+      <workItem from="1587653319182" duration="2613000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1586881996554</created>
@@ -446,7 +446,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586881996554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed check_Email() method">
+      <created>1587656192500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587656192500</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done login part">
+      <created>1587656263354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587656263354</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,12 +482,14 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="completed check_Email() method" />
+    <MESSAGE value="done login part" />
+    <option name="LAST_COMMIT_MESSAGE" value="done login part" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Typing_Speed$Typing_Speed.coverage" NAME="Typing_Speed Coverage Results" MODIFIED="1587655911322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/typing_speed" />
+    <SUITE FILE_PATH="coverage/Typing_Speed$Typing_Speed.coverage" NAME="Typing_Speed Coverage Results" MODIFIED="1587656695737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/typing_speed" />
   </component>
 </project>
