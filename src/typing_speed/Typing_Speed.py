@@ -84,3 +84,13 @@ if choice == 1:
 
     password = input("Enter the password:")
     print("Sucessfully Logged in!!")
+else:
+    f_name = input("Enter the first name: ")
+    l_name = input("Enter the last name: ")
+    email = input("Enter the Email: ")
+    while True:
+        if check_password():
+            print("Successfully registered!!")
+            break
+        else:
+            pass
